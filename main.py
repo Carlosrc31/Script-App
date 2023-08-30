@@ -41,7 +41,7 @@ def main(sample, batch):
     #print(data_sample)
     
     #It'll write the new file with changes
-    write_list_of_dicts_to_csv("File_Edited.csv", data_sample)
+    write_list_of_dicts_to_csv("grocery_db.csv", data_sample)
 
 
 # Press the green button in the gutter to run the script.
